@@ -11,6 +11,21 @@ We are one team for a great event 🚀
 Download {download}`Bulletin 2</_static/pdf/bulletin2.pdf>`.
 
 
+```{admonition} Some useful resources for the editor
+:class: caution
+
+[General Markdown cheetsheet](https://www.markdownguide.org/cheat-sheet/#extended-syntax)
+- how to write
+- how to highlight
+- how to make lists, tables, etc
+- how to make links
+
+[MyST special features](https://jupyterbook.org/content/myst.html)
+- how to make special boxes, notes, etc
+- how to insert images
+- how to make tabs and other layout tools
+```
+
 This is a small sample book to give you a feel for how book content is
 structured.
 It shows off a few of the major file types, as well as some sample content.
