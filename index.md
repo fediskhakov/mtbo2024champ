@@ -25,6 +25,18 @@ Download {download}`Bulletin 2</_static/pdf/bulletin2.pdf>`.
 - how to insert images
 - how to make tabs and other layout tools
 ```
+````{admonition}I love MTBO
+ 17-20 October 2024 
+````
+# I LOVE MTBO
+
+**Hello, out there!**
+
+*How are you?*
+
+> Hello kids 
+
+
 
 This is a small sample book to give you a feel for how book content is
 structured.
