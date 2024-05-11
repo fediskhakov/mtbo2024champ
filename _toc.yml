@@ -6,3 +6,5 @@ root: index
 chapters:
 - file: markdown
 - file: roster
+- file: day1
+
