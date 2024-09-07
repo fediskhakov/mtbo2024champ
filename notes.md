@@ -1,0 +1,21 @@
+# Random notes
+
+
+```{admonition} Some useful resources for writing this manual
+:class: caution
+
+[General Markdown cheetsheet](https://www.markdownguide.org/cheat-sheet/#extended-syntax)
+- how to write
+- how to highlight
+- how to make lists, tables, etc
+- how to make links
+
+[MyST special features](https://jupyterbook.org/content/myst.html)
+- how to make special boxes, notes, etc
+- how to insert images
+- how to make tabs and other layout tools
+
+[Jypyter Book documentation](https://jupyterbook.org)
+
+```
+
