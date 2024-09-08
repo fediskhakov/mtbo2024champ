@@ -1,2 +1,2 @@
-# Overall schedule 
+# Detailed schedule 
 
