@@ -4,7 +4,7 @@ This website/document contains the complete information for the organizers and v
 
 ***2024 Australian Mountain Bike Orienteering Carnival and Championships***
 
-```{admonition} Overall schedule
+## Overall schedule
 
 | October 17, Thursday |  |  |
 |--|--|--|
@@ -34,7 +34,6 @@ This website/document contains the complete information for the organizers and v
 
 See [schedule page](schedule.md) for all the details
 
-```
 
 ## Links and documents
 
@@ -49,11 +48,10 @@ See [schedule page](schedule.md) for all the details
 - Eventor: [DINNER](https://eventor.orienteering.asn.au/Events/Show/19687) Saturday Aug 19
 
 
-## Contact information
+## Emergency contact
 
+**Marina Iskhakova** - Event Director - `0412308310`
 
+---
 
-## Table of contents
-
-```{tableofcontents}
-```
+This website is made using [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) infrastructure and hosted by [Github Pages](https://github.com/fediskhakov/mtbo2024champ)
