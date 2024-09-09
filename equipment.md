@@ -1,6 +1,6 @@
 # Gear and equipment
 
-Exhaustive list of gear and equipment required for the Carnival.
+_Exhaustive_ list of gear and equipment required for the Carnival.
 
 ## Tents, tables and chairs
 
@@ -17,18 +17,19 @@ Exhaustive list of gear and equipment required for the Carnival.
 
 ## General arena equipment
 
-| Item | From | Number | WARM-UP | MASS | MIDDLE | SPRINT | LONG |
-|-|-|-|-|-|-|-|-|
-| Flag `Orienteering` | Shed | ? | + | + | + | + |+ |
-| Flag `OACT` | Shed | 4 | + | + | + | + | + |
-| Flag `Ask me` | Shed | 2 | + | + | + | + | + |
-|-|-|-|-|-|-|-|-|
-|-|-|-|-|-|-|-|-|
-|-|-|-|-|-|-|-|-|
-|-|-|-|-|-|-|-|-|
-|-|-|-|-|-|-|-|-|
+Right five columns indicate whether the item is required for the individual events.
 
-### + Gate keeper post on Sunday
+| Item | From | Number | WARM-UP | MASS | MIDDLE | SPRINT | LONG |
+|-|-|:-:|:-:|:-:|:-:|:-:|:-:|
+| Flag `Orienteering` | Shed | ? | ☑ | ☑ | ☑ | ☑ |☑ |
+| Flag `OACT` | Shed | 4 | ☑ | ☑ | ☑ | ☑ | ☑ |
+| Flag `Ask me` | Shed | 2 | ☑ | ☑ | ☑ | ☑ | ☑ |
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
+| Podium | ONSW | 1 | | ☑ | | | ☑ |
+
 
 ## Main computer tent
 

@@ -57,4 +57,4 @@ See [schedule page](schedule.md) for all the details
 
 ---
 
-This website is made using [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) infrastructure and hosted by [Github Pages](https://github.com/fediskhakov/mtbo2024champ)
+This website is made using [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) and is hosted by [Github](https://github.com/fediskhakov/mtbo2024champ)
