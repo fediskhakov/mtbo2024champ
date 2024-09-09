@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: 2024 AUS MTBO Carnival and Championship
-author: Marina Iskhakova
+author: Fedor + Marina Iskhakov(a)
 logo: _static/logo/logo_champ.png
 exclude_patterns            : [_build,README.md]
 
