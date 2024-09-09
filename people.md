@@ -1,5 +1,14 @@
-# People
+# Volunteer roles and roster
 
+## Carnival directors
+
+- Marina Iskhakova - Event Director - `0412308310`
+- Fedor Iskhakov - Technical Director - `0434019571`
+
+## Day teams
+
+
+## Volunteers
 
 
 
