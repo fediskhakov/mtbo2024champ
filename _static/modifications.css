@@ -1,5 +1,6 @@
+/* remove zebra and highlighting in table body */
 :root {
-  --pst-color-table-row-zebra-low-bg: hsla(0, 0%, 100%, 0);
-  --pst-color-table-row-zebra-high-bg: hsla(0, 0%, 100%, 0);
-  --pst-color-table-row-hover-bg: hsla(0, 0%, 100%, 0);
+  --pst-color-table-row-zebra-low-bg: hsla(0, 0%, 100%, 0)!important;
+  --pst-color-table-row-zebra-high-bg: hsla(0, 0%, 100%, 0)!important;
+  --pst-color-table-row-hover-bg: hsla(0, 0%, 100%, 0)!important;
 }
