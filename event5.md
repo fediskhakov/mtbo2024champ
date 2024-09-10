@@ -1,4 +1,4 @@
-# LONG: Sunday, October 20
+# 🚴‍♀️ LONG: Sunday, Oct 20
 
 ```{admonition} Main points
 :class: info

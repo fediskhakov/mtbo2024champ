@@ -1,4 +1,4 @@
-# MASS: Friday, October 18
+# 🚴‍♀️ MASS: Friday, Oct 18
 
 ```{admonition} Main points
 :class: info

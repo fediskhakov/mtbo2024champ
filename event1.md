@@ -1,4 +1,4 @@
-# WARM-UP: Thursday, October 17 
+# 🚴‍♀️ WARM-UP: Thursday, Oct 17 
 
 ```{admonition} Main points
 :class: info
