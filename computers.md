@@ -1,0 +1,17 @@
+# IT setup and notes
+
+## The team
+
+| Name | Contact| Availability | Role |
+|-|-|-:|-:|
+| Fedor Iskhakov | `0434019571` | <tt>11111</tt> | Setup, system, inquiries |
+| Alex Maksimov | | <tt>11111</tt> | MeOS, screens |
+| Henry Gotzinger | | <tt>10111</tt> | MeOS |
+| Oliver Gotzinger | | <tt>00111</tt> | MeOS |
+| Owen Radajewski | | <tt>00001</tt> | MeOS |
+
+- Availability indicated for WARM-UP, MASS, MIDDLE, SPRINT, LONG
+- [IT team WhatsApp group](https://chat.whatsapp.com/D8x4pE5UoyO8gaRAwYkL3r)
+
+## Computer tent setup
+

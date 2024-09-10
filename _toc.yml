@@ -7,6 +7,7 @@ chapters:
 - file: schedule
 - file: people
 - file: equipment
+- file: computers
 - file: event1
 - file: event2
 - file: event3

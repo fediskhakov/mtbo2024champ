@@ -4,9 +4,21 @@
 
 - Marina Iskhakova - Event Director - `0412308310`
 - Fedor Iskhakov - Technical Director - `0434019571`
+- Sandor Talas - IOF Advisor
 
 ## Day teams
 
+- Course planning
+- Control setup
+- Control collection
+
+## Functional teams
+
+- Arena team
+- Parking team (+ gate, road marshals)
+- Registration + hire team
+- IT team
+- Start team
 
 ## Volunteers
 

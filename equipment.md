@@ -6,48 +6,119 @@ _Exhaustive_ list of gear and equipment required for the Carnival.
 
 | | Tents | Tables | Chairs | 
 |-|-|-|-|
-| Registration | 3x6 | 1 | 2 |
-| Map boards hire | 3x3 | 1 | 2 |
+| Registration + hire | 3x6 | 2 | 4 |
 | IT team, download | 3x6 | 3 | 4 |
-| Result screens | with IT? | | |
-| Commentator post | 3x3 | 1 | 2 |
-| Come-and-try | with rego? | 1 | 2 |
-| Start | 3x3 | 1 | 2 |
-| **TOTAL** | 7? | 8 | 14 |
+| Result screens | ? | 0 | 0 |
+| Commentator post | 3x3 | 1 | 1 |
+| Come-and-try | 3x3 | 1 | 2 |
+| Kids' tent | ? | 0 | 0 |
+| Start | two 3x3 | 1 | 2 |
+| **TOTAL** | 8! | 8 | 14 |
 
 ## General arena equipment
 
 Right five columns indicate whether the item is required for the individual events.
 
-| Item | From | Number | WARM-UP | MASS | MIDDLE | SPRINT | LONG |
-|-|-|:-:|:-:|:-:|:-:|:-:|:-:|
-| Flag `Orienteering` | Shed | ? | ☑ | ☑ | ☑ | ☑ |☑ |
-| Flag `OACT` | Shed | 4 | ☑ | ☑ | ☑ | ☑ | ☑ |
-| Flag `Ask me` | Shed | 2 | ☑ | ☑ | ☑ | ☑ | ☑ |
-|-|-|-|-|-|-|-|-|
-|-|-|-|-|-|-|-|-|
-|-|-|-|-|-|-|-|-|
-|-|-|-|-|-|-|-|-|
-| Podium | ONSW | 1 | | ☑ | | | ☑ |
+| # | Item | From | Quantity | WARM-UP | MASS | MIDDLE | SPRINT | LONG |
+|-:|-|-|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1 | Flag `Orienteering` | Shed | ? | ☑ | ☑ | ☑ | ☑ |☑ |
+| 2 | Flag `OACT` | Shed | 4 | ☑ | ☑ | ☑ | ☑ | ☑ |
+| 3 | Flag `Ask me` | Shed | 2 | ☑ | ☑ | ☑ | ☑ | ☑ |
+| 4 |-|-|-|-|-|-|-|-|
+| 5 |-|-|-|-|-|-|-|-|
+| 6 | Tent sides | ?|-|-|-|-|-|-|
+| 7 | Press wall 2.4x3m | Arpad | 1 | ☑ | ☑ | ☑ | ☑ | ☑ |
+| 8 | Podium | ONSW | 1 | | ☑ | | | ☑ |
+| 9 | Weights and hold-downs | ? | 8 | ☑ | ☑ | ☑ | ☑ | ☑ |
+
+- Podium and press wall need to make it to the DINNER as well
+
+- tent sides!
+- press wall 3x2.4m
+- logo banners?
+
+## Central IT tent
+
+- All IT equipment is used in all events
+- All computers is picked up from OACT office
+
+| # | Item | Quantity | Function | Comment |
+|-:|-|:-:|-|-|
+| 1 | Dell Inspiron: MAPPING laptop | 1 | |
+| 2 | Thinkpad: SPRINT CLIENT A laptop | 1 | |
+| 3 | Set A laptop | 1 | |
+| 4 | Set B laptop | 1 | |
+| 5 | Acer Spin: MTBO laptop | 1 | |
+| 5 | Network router + cables | 1 | |
+| 6 | Access point/extender | 1 | |
+| 7 | Split printer | 2 | |
+| 8 | Power banks, OACT | 4 | |
+| 9 | Power banks, Fedor | 3 | | |
+| 10 | Petrol generator Honda | 1 | | |
+| 11 | Electric cables and powerboards | 5? | | |
+
+### + finish equipment
+
+- bunting for finish corridor
+- finish arch (from ONSW, Ori): MASS, SPINT, LONG
+
+### + screens tent
+
+- TVs and stands
+
+### + radio controls
 
 
-## Main computer tent
 
 ## Registration tent
 
-## Map board hire tent
+- includes map board hire tent!
+- 1 table + 2 chairs for registration
+- 1 table + 2 chairs for map board hire
+- 
+
+### + competitors' bags
+
+### + map board hire
+
+
 
 ## Commentator tent
 
+- Arpad Kocsik (ADD to Bulletin 3!)
+- commentary and music
+- discuss equipment with Arpad directly
+- small tent
+- 1 table (small) + 1 chair
+- audio equipment
+
 ## Come-and-try tent
+
+- small tent
+- 1 table
+- 2 chairs
+- Sample maps
+- Sample control
+- 2 flags `Come and try`
+- 2 coach volunteers (Toni, Raynie)
 
 ## Start set
 
+- bunting!
+- tent, table, chairs
+
+
 ## Course setting gear
 
-## Radio controls
+- Problem: how to stick control stands into ground?
+- How many stands 
 
-## Competitors' bags
+
+
+## Parking team gear
+
+- high viz vests
+- gate marshals -- tent, chairs, umbrellas ??
 
 
 

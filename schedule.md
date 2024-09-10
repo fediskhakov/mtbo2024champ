@@ -21,8 +21,9 @@
 | Oct 15 | Publish **start lists** | Marina + Fedor |
 | Oct 15, 18:00 | Final email 💌 to all participants | Marina |
 | Oct 15 | All equipment transferred from the shed | Fedor |
-| Oct 16 | Competitors bags 🛍 packed and sorted | Marina + Fedor |
+| Oct 16 | Competitors bags 🛍 packed and sorted | Emily, Marina |
 | Oct 16 | Final coordination with Blue Lightning Stall 🧁 | Marina, Driedre |
+| Oct 16 | Charge up batteries and power banks 🔋 | Fedor |
 | Oct 16, 20:00 | ➡️ Team Zoom meeting ⬅️ | **Everyone** |
 
 ## October 17, Thursday, WARM-UP
@@ -32,14 +33,21 @@
 | When | What | Who |
 |--|--|--|
 | 7:00 - 9:00 | Control setup | Marina, Ariadna |
-| by 14:00 | Toilets to arrive | ? |
-| 14:00 - 15:00 | Arena setup 🎪 <br/> Registration tent <br/> IT team tent <br/> Equipment hire tent <br/> First-Aid officer to arrive <br/> Kids supervision tent | Fedor <br/> ? <br/> IT team <br/> |
+| by 14:00 | Toilets 🚻 arrive | Rohan |
+| 14:00 - 15:00 | Arena 🎪 setup <br/> Registration tent <br/> IT team tent <br/> Commentator tent | Fedor <br/> Arena team <br/> IT team |
 | 14:30 | Parking officers are ready | ? |
-| 15:00 | **Event center opens** 🎪 |  |
-| 15:00 | Coffee van ☕️ <br/> Blue Lightning Stall 🧁 <br/> Mojo Bike Repairs 🔧 <br/> Yoga for Posture 🧘 |  |
+| 15:00 | Event center opens 🎪 |  |
+| 16:00 - 18:00 | 📣 Commentator | Arpad |
+| 16:00 - 18:00 | Come-and-try MTBO tent 🙋 | Toni, Raynie |
+| 16:00 - 18:30| Blue Lightning Stall 🧁 | Deirdre |
+| 16:00 - 19:00 | Mojo Bike Repairs 🔧 | Chris |
+| 16:30 - 17:00 | Stretching with Yoga for Posture 🧘 | Elena |
 | 17:00 - 18:00 | Start open for WARM-UP event | Start team |
-| 19:00 | WARM-UP course closure | |
+| 17:00 - 19:00 | Kids' tent 👦 | ? |
+| 18:30 - 21:30 | 🍷 Social Drinks at *The Verandah* at *Alivio Tourist Park* | [Location](https://maps.app.goo.gl/Wte5veujM1qiDF4T9) | |
+| 19:00 | WARM-UP course closure 🏁 | |
 | 19:20 | 🌅 Sunset | |
+| 22:00 | Charge up batteries and power banks 🔋 | Fedor |
 
 
 ## October 18, Friday, MASS
@@ -48,12 +56,20 @@
 
 | When | What | Who |
 |--|--|--|
-| 15:00 | **Event center opens** 🎪 |  |
+| by 14:00 | Toilets 🚻 arrive | Rohan |
+| 15:00 | Event center opens 🎪 |  |
+| 15:00 - 19:00 | Coffee van ☕️ | KDS coffee |
+| 15:30 - 16:00 | Stretching with Yoga for Posture 🧘 | Elena |
+| 15:30 - 16:30 | Come-and-try MTBO tent 🙋 | Toni, Raynie |
+| 16:00 - 19:00 | 📣 Commentator | Arpad |
+| 16:00 - 19:30 | First-Aid officer 🚑 present | GetFirstAid |
+| 16:00 - 19:00 | Mojo Bike Repairs 🔧 | Chris |
+| 16:00 - 19:00 | Kids' tent 👦 | ? |
 | 16:30 - 17:00 | Start open for MASS event | |
-| 18:45 | Presentation ceremony for MASS | |
-| 19:00 | Course closure | |
+| 18:45 | Presentation ceremony 🏆 for MASS | |
+| 19:00 | Course closure 🏁 | |
 | 19:21 | 🌅 Sunset | |
-
+| 22:00 | Charge up batteries and power banks 🔋 | Fedor |
 
 ## October 19, Saturday, MIDDLE
 
@@ -61,9 +77,16 @@
 
 | When | What | Who |
 |--|--|--|
-| 7:30 | **Event center opens** 🎪 |  |
+| 7:30 | Event center opens 🎪 |  |
+| 7:30 - 11:00 | Coffee van ☕️ | KDS coffee |
+| 7:30 - 12:00 | Mojo Bike Repairs 🔧 | Chris |
+| 7:30 - 9:30 | Come-and-try MTBO tent 🙋 | Toni, Raynie |
+| 8:00 - 12:00 | 📣 Commentator | Arpad |
+| 8:00 - 12:30 | Kids' tent 👦 | ? |
 | 8:30 - 10:00 | Start open for MIDDLE event | |
-| 12:00 | Course closure, arena relocation | |
+| 9:00 - 12:00 | First-Aid officer 🚑 at te finish |  |
+| 9:30 - 12:00 | Massage 💆‍♀️ by Physio Sport | Cassandra |
+| 12:00 | Course closure 🏁, arena relocation | |
 
 ## October 19, Saturday, SPRINT
 
@@ -71,20 +94,29 @@
 
 | When | What | Who |
 |--|--|--|
-| 13:00 | **Event center opens** 🎪 |  |
+| 13:00 | Event center opens 🎪 |  |
+| 13:00 - 16:00 | Blue Lightning Stall 🧁 | Deirdre |
+| 13:00 - 16:00 | Mojo Bike Repairs 🔧 | Chris |
+| 13:30 - 15:00 | Come-and-try MTBO tent 🙋 | Toni, Raynie |
+| 13:30 - 16:30 | 📣 Commentator | Arpad |
+| 13:30 - 16:30 | Kids' tent 👦 | ? |
+| 13:45 - 16:30 | First-Aid officer 🚑 present | GetFirstAid |
 | 14:00 - 15:30 | Start open for SPRINT event | |
-| 16:30 | Course closure | |
+| 14:30 - 16:30 | Massage 💆‍♀️ by Physio Sport | Cassandra |
+| 16:30 | Course closure 🏁 | |
 | 19:22 | 🌅 Sunset | |
 
-## October 19, Saturday, DINNER
+## October 19, Saturday, DINNER 🍾 🥂 🎉 
 
-[Location of DINNER](https://maps.app.goo.gl/xgtEq31t6cHmFTTQA) **Harmonie German Club**
+at **Harmonie German Club**  
+[Location of DINNER](https://maps.app.goo.gl/xgtEq31t6cHmFTTQA) 
 
 | When | What | Who |
 |--|--|--|
-| 18:30 | Start of the dinner | (by registration) |
-| 19:30 | Presentation ceremony for MIDDLE and SPRINT | all |
-| 21:30 | Dinner concludes | |
+| 18:30 | Dining commences 🍽 | by registration |
+| 19:30 | Presentation ceremony 🏆 🏆 for MIDDLE and SPRINT | everyone welcome |
+| 21:45 | Dinner concludes | |
+| 22:00 | Charge up batteries and power banks 🔋 | Fedor |
 
 ## October 20, Sunday, LONG
 
@@ -92,18 +124,30 @@
 
 | When | What | Who |
 |--|--|--|
-| 8:00 | **Event center opens** 🎪 |  |
-| 9:00 --- 10:30 | Start open for LONG event | |
-| 13:30 | Course closure | |
-| 12:30 | Presentation ceremony for LONG | |
+| by 7:30 | Toilets 🚻 arrive | Rohan |
+| 7:30 - 9:00 | Coffee van ☕️ | KDS coffee |
+| 8:00 | Event center opens 🎪 |  |
+| 8:00 - 10:00 | Mojo Bike Repairs 🔧 | Chris |
+| 8:00 - 10:00 | Come-and-try MTBO tent 🙋 | Toni, Raynie |
+| 8:30 - 12:30 | 📣 Commentator | Arpad |
+| 8:30 - 13:30 | Kids' tent 👦 | ? |
+| 9:00 - 13:00 | First-Aid officer 🚑 present | GetFirstAid |
+| 9:00 - 10:30 | Start open for LONG event | |
+| 10:00 - 13:00 | Blue Lightning Stall 🧁 | Deirdre |
+| 13:30 | Course closure 🏁 | |
+| 12:30 | Presentation ceremony 🏆 for LONG | |
 | 19:23 | 🌅 Sunset | |
+| 22:00 | Charge up batteries and power banks 🔋 | Fedor |
 
 ## After the Carnival
 
 | When | What | Who |
 |--|--|--|
-| Oct 21 | Return all equipment <br/> Return 35 SIACs to Ryan Welsh, CORC <br/> Return equipment to OACT Shed | Marina + Fedor |
-| | Thank you messages to all Sponsors and Partners | Marina |
-| | Articles, Photos, Interviews, Results – to OA, OACT, ONSW, Pedal Power, Aus Orienteer, OA news, to all | Marina |
+| Oct 21 | Return all equipment <br/> Return 35 SIACs to Ryan Welsh, CORC <br/> Return equipment to OACT Shed | Marina + Fedor, Sergei |
+| Oct 21 | Return toilets 🚻 to [Canberra Hire](https://maps.app.goo.gl/Jau9rcGNu5fGNsbB9) | Rohan || | Thank you messages 💌 to all sponsors and partners | Marina |
+| | Thank you messages 💌 to all participants | Marina |
+| | Articles, Photos, Interviews, Results <br/> to OA, OACT, ONSW, Pedal Power, Aus Orienteer, OA news | Marina |
 | | Financial Report to OACT | Marina |
 | | Thank you email 💌 to the organizers team | Marina |
+
+

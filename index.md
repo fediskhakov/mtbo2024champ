@@ -6,31 +6,37 @@ This website/document contains the complete information for the organizers and v
 
 ## Overall schedule
 
-| October 17, Thursday |  |  |
+| October 17, Thursday | | |
 |--|--|--|
-| 3 pm | 🎪 Event center opens | [Location](https://maps.app.goo.gl/RkufTrcQbvMn9bMF6) |
-| 5 pm - 6 pm | 🎬 WARM-UP start window | |
-| 7 pm | 🏁 Course closure | |
-| 6:30 pm - 9:30 pm | 🍷 Social Drinks at *The Verandah* at *Alivio Tourist Park* | [Location](https://maps.app.goo.gl/Wte5veujM1qiDF4T9) |
-| **October 18, Friday** |  |  |
-| 3 pm | 🎪 Event center opens | [Location](https://maps.app.goo.gl/caWZitWLByRsVxT79) |
-| 4:30 pm - 5:00 pm | 🎬 MASS start window | |
-| 7 pm | 🏁 Course closure | |
-| 6:45 pm | 🏆 Presentation ceremony for MASS | |
-| **October 19, Saturday** |  |  |
-| 7:30 am | 🎪 Event center opens | [Location](https://maps.app.goo.gl/2cXzt4ywia9G6Hj77) |
-| 8:30 am - 10:00 am | 🎬 MIDDLE start window | |
-| 12:00 pm | 🏁 Course closure 🏁, arena relocation | |
+| 15:00 | 🎪 Event center opens | [Location](https://maps.app.goo.gl/RkufTrcQbvMn9bMF6) |
+| 17:00 - 18:00 | 🎬 WARM-UP start window | |
+| 19:00 | 🏁 Course closure | |
+| 18:30 - 21:30 | 🍷 Social Drinks at *The Verandah* at *Alivio Tourist Park* | [Location](https://maps.app.goo.gl/Wte5veujM1qiDF4T9) |
+
+| **October 18, Friday** | | |
+|--|--|--|
+| 15:00 | 🎪 Event center opens | [Location](https://maps.app.goo.gl/caWZitWLByRsVxT79) |
+| 16:30 - 17:00 | 🎬 MASS start window | |
+| 19:00 | 🏁 Course closure | |
+| 18:45 | 🏆 Presentation ceremony for MASS | |
+
+| **October 19, Saturday** | | |
+|--|--|--|
+| 7:30 | 🎪 Event center opens | [Location](https://maps.app.goo.gl/2cXzt4ywia9G6Hj77) |
+| 8:30 - 10:00 | 🎬 MIDDLE start window | |
+| 12:00 | 🏁 Course closure 🏁, arena relocation | |
 | 1 pm | 🎪 Event center opens | [Location](https://maps.app.goo.gl/PX7dE2mznda9W7Q49) |
-| 2 pm - 3:30 pm | 🎬 SPRINT start window | |
-| 4:30 pm | 🏁 Course closure 🏁 | |
-| 6:30 pm - 9:30 pm | 🍷 DINNER at *Harmonie German Club* | [Location](https://maps.app.goo.gl/RzJVPCCobYroMax18) |
-| 7:30 pm | 🏆 Presentation ceremony for MIDDLE and SPRINT | |
-| **October 20, Sunday** |  |  |
-| 8 am | 🎪 Event center opens | [Location](https://maps.app.goo.gl/UvWwtsQ32WtoRC1T6) |
-| 9:00 am - 10:30 am | 🎬 LONG start window | |
-| 1:30 pm | 🏁 Course closure | |
-| 12:30 pm | 🏆 Presentation ceremony for LONG | |
+| 14:00 - 15:30 | 🎬 SPRINT start window | |
+| 16:30 | 🏁 Course closure 🏁 | |
+| 18:30 - 21:30 | 🍷 DINNER at *Harmonie German Club* | [Location](https://maps.app.goo.gl/RzJVPCCobYroMax18) |
+| 19:30 | 🏆 Presentation ceremony for MIDDLE and SPRINT | |
+
+| **October 20, Sunday** | | |
+|--|--|--|
+| 8:00 | 🎪 Event center opens | [Location](https://maps.app.goo.gl/UvWwtsQ32WtoRC1T6) |
+| 9:00 - 10:30 | 🎬 LONG start window | |
+| 12:30 | 🏆 Presentation ceremony for LONG | |
+| 13:30 | 🏁 Course closure | |
 
 See [schedule page](schedule.md) for all the details
 
