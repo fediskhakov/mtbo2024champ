@@ -38,21 +38,62 @@ This website/document contains the complete information for the organizers and v
 | 12:30 | 🏆 Presentation ceremony for LONG | |
 | 13:30 | 🏁 Course closure | |
 
-See [schedule page](schedule.md) for all the details
+See [schedule page](01.schedule.md) for all the details
 
 
-## Links and documents
+## Main documents
 
-{download}`Bulletin 2</_static/pdf/bulletin2.pdf>`
-<br/>
-![](/_static/pdf/bulletin2_front.png)
+::::{grid}
+:gutter: 3
 
-- Eventor: [WARMUP](https://eventor.orienteering.asn.au/Events/Show/19686) Thursday Aug 17
-- Eventor: [MASS](https://eventor.orienteering.asn.au/Events/Show/19100) Friday Aug 18
-- Eventor: [MIDDLE](https://eventor.orienteering.asn.au/Events/Show/19101) Saturday Aug 19
-- Eventor: [SPRINT](https://eventor.orienteering.asn.au/Events/Show/19102) Saturday Aug 19
-- Eventor: [LONG](https://eventor.orienteering.asn.au/Events/Show/19103) Sunday Aug 20
-- Eventor: [DINNER](https://eventor.orienteering.asn.au/Events/Show/19687) Saturday Aug 19
+:::{grid-item-card} Bulletin 1
+<a href="_static/pdf/bulletin1.pdf"><img src="_static/pdf/bulletin1_front.png"></a>
+:::
+:::{grid-item-card} Bulletin 2
+<a href="_static/pdf/bulletin2.pdf"><img src="_static/pdf/bulletin2_front.png"></a>
+:::
+:::{grid-item-card} How to register
+<a href="_static/pdf/How-to-register-at-EVENTOR.pdf"><img src="_static/pdf/How-to-register.png"></a>
+:::
+::::
+
+## Links to web pages
+
+::::{grid}
+:gutter: 6
+
+:::{grid-item-card} @ OACT
+<a href="https://act.orienteering.asn.au/event-series/mountain-bike-orienteering/2024-australian-mtbo-championships/" target=_blank><img src="_static/pdf/oact_web.png"></a>
+:::
+:::{grid-item-card} @ Orienteering Australia
+<a href="https://ausmtbochamps2024.orienteering.asn.au/" target=_blank><img src="_static/pdf/orienteering_aus_web.png"></a>
+:::
+::::
+
+## Links to Eventor pages
+
+::::{grid}
+:gutter: 6
+
+:::{grid-item-card} WARMUP
+<a href="https://eventor.orienteering.asn.au/Events/Show/19686" target=_blank><img src="_static/pdf/eventor.png"></a>
+:::
+:::{grid-item-card} MASS
+<a href="https://eventor.orienteering.asn.au/Events/Show/19100" target=_blank><img src="_static/pdf/eventor.png"></a>
+:::
+:::{grid-item-card} MIDDLE
+<a href="https://eventor.orienteering.asn.au/Events/Show/19101" target=_blank><img src="_static/pdf/eventor.png"></a>
+:::
+:::{grid-item-card} SPRINT
+<a href="https://eventor.orienteering.asn.au/Events/Show/19102" target=_blank><img src="_static/pdf/eventor.png"></a>
+:::
+:::{grid-item-card} LONG
+<a href="https://eventor.orienteering.asn.au/Events/Show/19103" target=_blank><img src="_static/pdf/eventor.png"></a>
+:::
+:::{grid-item-card} DINNER
+<a href="https://eventor.orienteering.asn.au/Events/Show/19687" target=_blank><img src="_static/pdf/eventor.png"></a>
+:::
+::::
 
 
 ## Emergency contacts
