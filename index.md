@@ -60,7 +60,7 @@ See [schedule page](01.schedule.md) for all the details
 ## Links to web pages
 
 ::::{grid}
-:gutter: 6
+:gutter: 4
 
 :::{grid-item-card} @ OACT
 <a href="https://act.orienteering.asn.au/event-series/mountain-bike-orienteering/2024-australian-mtbo-championships/" target=_blank><img src="_static/pdf/oact_web.png"></a>
@@ -73,7 +73,7 @@ See [schedule page](01.schedule.md) for all the details
 ## Links to Eventor pages
 
 ::::{grid}
-:gutter: 6
+:gutter: 4
 
 :::{grid-item-card} WARMUP
 <a href="https://eventor.orienteering.asn.au/Events/Show/19686" target=_blank><img src="_static/pdf/eventor.png"></a>
@@ -87,11 +87,11 @@ See [schedule page](01.schedule.md) for all the details
 :::{grid-item-card} SPRINT
 <a href="https://eventor.orienteering.asn.au/Events/Show/19102" target=_blank><img src="_static/pdf/eventor.png"></a>
 :::
-:::{grid-item-card} LONG
-<a href="https://eventor.orienteering.asn.au/Events/Show/19103" target=_blank><img src="_static/pdf/eventor.png"></a>
-:::
 :::{grid-item-card} DINNER
 <a href="https://eventor.orienteering.asn.au/Events/Show/19687" target=_blank><img src="_static/pdf/eventor.png"></a>
+:::
+:::{grid-item-card} LONG
+<a href="https://eventor.orienteering.asn.au/Events/Show/19103" target=_blank><img src="_static/pdf/eventor.png"></a>
 :::
 ::::
 

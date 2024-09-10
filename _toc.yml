@@ -12,6 +12,7 @@ chapters:
 - file: event2
 - file: event3
 - file: event4
+- file: event_dinner
 - file: event5
 - file: 09.course_setting
 - file: 99.footnotes

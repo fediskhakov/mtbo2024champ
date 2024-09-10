@@ -1,4 +1,4 @@
-# 🚴‍♀️ SPRINT: Friday, Oct 18
+# 🚴‍♀️ SPRINT: Saturday, Oct 19
 
 ```{admonition} Main points
 :class: info
