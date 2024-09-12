@@ -6,6 +6,7 @@ root: index
 chapters:
 - file: 01.schedule
 - file: 02.people
+- file: 02.faces
 - file: 03.equipment
 - file: 04.computers
 - file: event1

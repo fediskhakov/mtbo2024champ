@@ -61,7 +61,7 @@ See [schedule page](01.schedule.md) for all the details
 ## Links to web pages
 
 ::::{grid}
-:gutter: 4
+:gutter: 3
 
 :::{grid-item-card} @ OACT
 <a href="https://act.orienteering.asn.au/event-series/mountain-bike-orienteering/2024-australian-mtbo-championships/" target=_blank><img src="_static/pdf/oact_web.png"></a>
@@ -74,7 +74,7 @@ See [schedule page](01.schedule.md) for all the details
 ## Links to Eventor pages
 
 ::::{grid}
-:gutter: 4
+:gutter: 2
 
 :::{grid-item-card} WARMUP
 <a href="https://eventor.orienteering.asn.au/Events/Show/19686" target=_blank><img src="_static/pdf/eventor.png"></a>
