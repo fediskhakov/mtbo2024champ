@@ -96,7 +96,7 @@ See [schedule page](01.schedule.md) for all the details
 :::
 ::::
 
-
+(home:contacts)=
 ## Emergency contacts
 
 - **Marina Iskhakova** - Event Director - `0412308310`
