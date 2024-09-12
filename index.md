@@ -1,8 +1,13 @@
 # 📚 Operations manual
 
-This website/document contains the complete information for the organizers and volunteers of the
-
+This website/document contains the complete information for the organizers and volunteers of the  
 ***2024 Australian Mountain Bike Orienteering Carnival and Championships***
+
+```{admonition} Preliminary version
+:class: caution
+
+The current version is incomplete: some section of the manual are only quickly drafted. However, the incomplete sections will only be extended, the information already included is very unlikely to change.
+```
 
 ## Overall schedule
 
