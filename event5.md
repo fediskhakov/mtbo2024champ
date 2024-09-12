@@ -13,3 +13,9 @@
 
 
 ```
+
+
+(arena-diagram:long)=
+## Arena setup for LONG
+
+- arena diagram

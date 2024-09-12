@@ -9,7 +9,10 @@
 
 **Arena location**
 
-
-
-
 ```
+
+
+(arena-diagram:mass)=
+## Arena setup for MASS
+
+- arena diagram

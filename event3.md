@@ -13,3 +13,9 @@
 
 
 ```
+
+
+(arena-diagram:middle)=
+## Arena setup for MIDDLE
+
+- arena diagram

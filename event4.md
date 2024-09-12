@@ -13,3 +13,8 @@
 
 
 ```
+
+(arena-diagram:sprint)=
+## Arena setup for SPRINT
+
+- arena diagram

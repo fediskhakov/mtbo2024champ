@@ -15,3 +15,10 @@
 ```
 
 
+(arena-diagram:warmup)=
+## Arena setup for WARM-UP
+
+- arena diagram
+
+
+
