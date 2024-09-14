@@ -101,6 +101,13 @@ See [schedule page](01.schedule.md) for all the details
 :::
 ::::
 
+
+(home:toc)=
+## Operations manual sections
+
+```{tableofcontents}
+```
+
 (home:contacts)=
 ## Emergency contacts
 
