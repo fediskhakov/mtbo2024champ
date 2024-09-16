@@ -56,7 +56,7 @@ See [schedule page](01.schedule.md) for all the details
 <a href="_static/pdf/bulletin2.pdf"><img src="_static/pdf/bulletin2_front.png"></a>
 :::
 :::{grid-item-card} Competition rules
-<a href="_static/pdf/208-MTBOCompetitionRules2023-OAOperationsGuideEd6.pdf"><img src="_static/pdf/208-MTBOCompetitionRules2023-OAOperationsGuideEd6_front.png"></a>
+<a href="_static/pdf/209-2024MountainBikeOrienteeringCompetitionRules-OperationsGuideEd6.pdf"><img src="_static/pdf/209-2024MountainBikeOrienteeringCompetitionRules-OperationsGuideEd6_front.png"></a>
 :::
 :::{grid-item-card} How to register
 <a href="_static/pdf/How-to-register-at-EVENTOR.pdf"><img src="_static/pdf/How-to-register.png"></a>
