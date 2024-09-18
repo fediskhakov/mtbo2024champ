@@ -9,6 +9,7 @@ chapters:
 - file: 02.faces
 - file: 03.equipment
 - file: 04.computers
+- file: 05.start
 - file: event1
 - file: event2
 - file: event3
