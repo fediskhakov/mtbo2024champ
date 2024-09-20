@@ -68,6 +68,9 @@ See [schedule page](01.schedule.md) for all the details
 ::::{grid}
 :gutter: 3
 
+:::{grid-item-card} Bulletin 3 Online
+<a href="https://docs.google.com/document/d/1wwht_mry4evapyWD3GVPYX5D3rnNsPMb9IQBj2Z0tBk/edit?usp=sharing"><img src="_static/pdf/bulletin3_online.png"></a>
+:::
 :::{grid-item-card} @ OACT
 <a href="https://act.orienteering.asn.au/event-series/mountain-bike-orienteering/2024-australian-mtbo-championships/" target=_blank><img src="_static/pdf/oact_web.png"></a>
 :::
