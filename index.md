@@ -52,8 +52,8 @@ See [schedule page](01.schedule.md) for all the details
 ::::{grid}
 :gutter: 3
 
-:::{grid-item-card} Bulletin 2
-<a href="_static/pdf/bulletin2.pdf"><img src="_static/pdf/bulletin2_front.png"></a>
+:::{grid-item-card} Bulletin 3
+<a href="_static/pdf/bulletin3.pdf"><img src="_static/pdf/bulletin3_front.png"></a>
 :::
 :::{grid-item-card} Competition rules
 <a href="_static/pdf/209-2024MountainBikeOrienteeringCompetitionRules-OperationsGuideEd6.pdf"><img src="_static/pdf/209-2024MountainBikeOrienteeringCompetitionRules-OperationsGuideEd6_front.png"></a>
