@@ -68,7 +68,7 @@ See [schedule page](01.schedule.md) for all the details
 ::::{grid}
 :gutter: 3
 
-:::{grid-item-card} Bulletin 3 Online
+:::{grid-item-card} Comments to Bulletin 3
 <a href="https://docs.google.com/document/d/1wwht_mry4evapyWD3GVPYX5D3rnNsPMb9IQBj2Z0tBk/edit?usp=sharing"><img src="_static/pdf/bulletin3_online.png"></a>
 :::
 :::{grid-item-card} @ OACT
