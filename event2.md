@@ -15,4 +15,4 @@
 (arena-diagram:mass)=
 ## Arena setup for MASS
 
-- arena diagram
+![](_static/arena/arena_mass.png)

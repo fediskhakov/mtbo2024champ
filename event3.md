@@ -18,4 +18,4 @@
 (arena-diagram:middle)=
 ## Arena setup for MIDDLE
 
-- arena diagram
+![](_static/arena/arena_middle.png)

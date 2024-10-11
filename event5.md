@@ -18,4 +18,4 @@
 (arena-diagram:long)=
 ## Arena setup for LONG
 
-- arena diagram
+![](_static/arena/arena_long.png)

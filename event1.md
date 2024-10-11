@@ -18,7 +18,7 @@
 (arena-diagram:warmup)=
 ## Arena setup for WARM-UP
 
-- arena diagram
+![](_static/arena/arena_warmup.png)
 
 
 

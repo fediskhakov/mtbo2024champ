@@ -17,4 +17,4 @@
 (arena-diagram:sprint)=
 ## Arena setup for SPRINT
 
-- arena diagram
+![](_static/arena/arena_sprint.png)
