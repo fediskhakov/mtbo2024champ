@@ -29,7 +29,7 @@ Driving directions
 (arena-diagram:mass)=
 ## Arena setup for MASS
 
-![](_static/arena/arena_mass.png)
+![](_static/arena/arena_mass2.png)
 
 Parking space in the MASS event is quite limited.  The overflow parking is at the [main Stromlo MTB Park parking or at the Stromlo Leisure Centre](https://maps.app.goo.gl/wqZmBXrRyKVdSwRq9) (both about 3km away, with bike access along the bike path).
 
