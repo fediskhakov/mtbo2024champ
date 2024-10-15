@@ -42,4 +42,4 @@ Driving directions
 (start-location:middle)=
 ## Start and finish locations for MIDDLE
 
-![](_static/arena/srtart_middle.png)
+![](_static/arena/start_middle.png)

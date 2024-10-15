@@ -30,3 +30,9 @@ Driving directions
 ## Arena setup for MASS
 
 ![](_static/arena/arena_mass.png)
+
+
+(start-location:middle)=
+## Start and finish locations for MASS
+
+![](_static/arena/start_mass.png)
