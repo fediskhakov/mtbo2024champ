@@ -43,3 +43,4 @@ Driving directions
 ## Start and finish locations for MIDDLE
 
 ![](_static/arena/start_middle.png)
+
