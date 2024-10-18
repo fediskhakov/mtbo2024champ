@@ -20,7 +20,7 @@
 Check the time that you have to arrive in the detailed schedule here
 ```
 
-(event-location:middle)=
+(event-location:sprint)=
 ## Arena location
 
 ```{button-link} http://maps.google.com/maps?saddr=&daddr=-35.321980851908016,149.23970566330303
