@@ -1,13 +1,23 @@
 # 📚 Operations manual
 
-This website/document contains the complete information for the organizers and volunteers of the  
+This website/document contains the complete information for the organizers and volunteers of the 
 ***2024 Australian Mountain Bike Orienteering Carnival and Championships***
 
 ```{admonition} Past event
 :class: caution
 
-This is a document that was used by the organizing team of the 2024 Australian MTBO Championships in ACT.  The event is over, and this document is kept for reference purposes.
+This is a document that was used by the organizing team of the 2024 Australian MTBO Championships in ACT. The event is over, and this document is kept for reference purposes.
 ```
+
+## Results, splits and LiveLox
+
+| Event | Start List| Live Results | Livelox| Official Results |
+|-|-|-|-|-|
+| E0: Warm-Up | – | [Live Results](https://liveresultat.orientering.se/followfull.php?lang=en&comp=31547) | [Livelox](https://eventor.orienteering.asn.au/Home/RedirectToLivelox?redirectUrl=%2FEvents%2FShow%2F140981) | [Official Results](https://eventor.orienteering.asn.au/Events/ResultList?eventId=19686&groupBy=EventClass)|
+| E1: Mass Start| – | [Live Results](https://liveresultat.orientering.se/followfull.php?lang=en&comp=31548) | [Livelox](https://eventor.orienteering.asn.au/Home/RedirectToLivelox?redirectUrl=%2FEvents%2FShow%2F140982) | [Official Results](https://eventor.orienteering.asn.au/Events/ResultList?eventId=19100&groupBy=EventClass)|
+| E2: Middle | [Start List](https://eventor.orienteering.asn.au/Events/StartList?eventId=19101&groupBy=EventClass) | [Live Results](https://liveresultat.orientering.se/followfull.php?comp=31549&lang=en) | [Livelox](https://www.livelox.com/Events/Show/140984/Australian-MTBO-Carnival-Championships-MIDDLE-Stringybark-Hi) | [Official Results](https://eventor.orienteering.asn.au/Events/ResultList?eventId=19101&groupBy=EventClass) |
+| E3: Sprint | [Start List](https://eventor.orienteering.asn.au/Events/StartList?eventId=19102&groupBy=EventClass) | [Live Results](https://liveresultat.orientering.se/followfull.php?comp=31551&lang=en) | [Livelox](https://www.livelox.com/Events/Show/140985/Australian-MTBO-Carnival-Championships-SPRINT-Sutton-Road-Dr) | [Official Results](https://eventor.orienteering.asn.au/Events/ResultList?eventId=19102&groupBy=EventClass) |
+| E4: Long | [Start List](https://eventor.orienteering.asn.au/Events/StartList?eventId=19103&groupBy=EventClass) | [Live Results](https://liveresultat.orientering.se/followfull.php?comp=31551&lang=sv) | [Livelox](https://eventor.orienteering.asn.au/Home/RedirectToLivelox?redirectUrl=%2FEvents%2FShow%2F140986) | [Official Results](https://eventor.orienteering.asn.au/Events/ResultList?eventId=19103&groupBy=EventClass) |
 
 
 ## Media coverage
