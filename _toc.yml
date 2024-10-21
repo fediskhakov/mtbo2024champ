@@ -4,6 +4,7 @@
 format: jb-book
 root: index
 chapters:
+- file: 00.aftermath
 - file: 01.schedule
 - file: 02.people
 - file: 02.faces

@@ -3,49 +3,18 @@
 This website/document contains the complete information for the organizers and volunteers of the 
 ***2024 Australian Mountain Bike Orienteering Carnival and Championships***
 
-```{admonition} Past event
+````{admonition} Past event
 :class: caution
 
 This is a document that was used by the organizing team of the 2024 Australian MTBO Championships in ACT. The event is over, and this document is kept for reference purposes.
+
+```{button-ref} aftermath
+:color: primary
+:shadow:
+
+Maps and courses, results, media coverage and photos
 ```
-
-## Results, splits and LiveLox
-
-| Event | Start List| Live Results | Livelox| Official Results |
-|-|-|-|-|-|
-| E0: Warm-Up | – | <a href="https://liveresultat.orientering.se/followfull.php?lang=en&comp=31547">Live Results</a> | <a href="https://eventor.orienteering.asn.au/Home/RedirectToLivelox?redirectUrl=%2FEvents%2FShow%2F140981">Livelox</a> | <a href="https://eventor.orienteering.asn.au/Events/ResultList?eventId=19686&groupBy=EventClass">Official Results</a> |
-| E1: Mass Start| – | <a href="https://liveresultat.orientering.se/followfull.php?lang=en&comp=31548">Live Results</a>  | <a href="https://eventor.orienteering.asn.au/Home/RedirectToLivelox?redirectUrl=%2FEvents%2FShow%2F140982">Livelox</a> | <a href="https://eventor.orienteering.asn.au/Events/ResultList?eventId=19100&groupBy=EventClass">Official Results</a> |
-| E2: Middle | <a href="https://eventor.orienteering.asn.au/Events/StartList?eventId=19101&groupBy=EventClass">Start List</a> | <a href="https://liveresultat.orientering.se/followfull.php?comp=31549&lang=en">Live Results</a>  | <a href="https://www.livelox.com/Events/Show/140984/Australian-MTBO-Carnival-Championships-MIDDLE-Stringybark-Hi">Livelox</a> | <a href="https://eventor.orienteering.asn.au/Events/ResultList?eventId=19101&groupBy=EventClass">Official Results</a> |
-| E3: Sprint | <a href="https://eventor.orienteering.asn.au/Events/StartList?eventId=19102&groupBy=EventClass">Start List</a> | <a href="https://liveresultat.orientering.se/followfull.php?comp=31551&lang=en">Live Results</a>  | <a href="https://www.livelox.com/Events/Show/140985/Australian-MTBO-Carnival-Championships-SPRINT-Sutton-Road-Dr">Livelox</a> | <a href="https://eventor.orienteering.asn.au/Events/ResultList?eventId=19102&groupBy=EventClass">Official Results</a> |
-| E4: Long | <a href="https://eventor.orienteering.asn.au/Events/StartList?eventId=19103&groupBy=EventClass">Start List</a> | <a href="https://liveresultat.orientering.se/followfull.php?comp=31551&lang=sv">Live Results</a>  | <a href="https://eventor.orienteering.asn.au/Home/RedirectToLivelox?redirectUrl=%2FEvents%2FShow%2F140986">Livelox</a> | <a href="https://eventor.orienteering.asn.au/Events/ResultList?eventId=19103&groupBy=EventClass">Official Results</a> |
-
-
-
-## Media coverage
-
-::::{grid}
-:gutter: 3
-
-:::{grid-item-card} Riotact article
-<a href="https://the-riotact.com/the-largest-mountain-bike-carnival-australia-has-ever-seen-is-rolling-into-canberra-and-youre-invited/816200"><img src="_static/media/riotact.png"></a>
-:::
-:::{grid-item-card} ABC radio interview
-<a href="" target=_blank><img src="_static/media/abc_listen.png"></a>
-:::
-::::
-::::{grid}
-:gutter: 3
-
-:::{grid-item-card} ABC News ACT
-<a href="https://iview.abc.net.au/video/NU2404C294S00" target=_blank><img src="_static/media/abc_news.png"></a>
-
-At `26:19` from the start of `19:00` **ABC News ACT** on `Sunday 20 October 2024`
-:::
-:::{grid-item-card} ABC article
-<a href="https://www.abc.net.au/news/2024-10-21/sport-mountain-bike-orienteering/104497898" target=_blank><img src="_static/media/abc_article.png"></a>
-:::
-::::
-
+````
 
 
 ## Overall schedule
