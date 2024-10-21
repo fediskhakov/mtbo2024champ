@@ -8,7 +8,7 @@ This website/document contains the complete information for the organizers and v
 
 This is a document that was used by the organizing team of the 2024 Australian MTBO Championships in ACT. The event is over, and this document is kept for reference purposes.
 
-```{button-ref} aftermath
+```{button-ref} 00.aftermath
 :color: primary
 :shadow:
 
