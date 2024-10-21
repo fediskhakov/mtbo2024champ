@@ -3,11 +3,39 @@
 This website/document contains the complete information for the organizers and volunteers of the  
 ***2024 Australian Mountain Bike Orienteering Carnival and Championships***
 
-```{admonition} Preliminary version
+```{admonition} Past event
 :class: caution
 
-The current version is incomplete: some section of the manual are only quickly drafted. However, the incomplete sections will only be extended, the information already included is very unlikely to change.
+This is a document that was used by the organizing team of the 2024 Australian MTBO Championships in ACT.  The event is over, and this document is kept for reference purposes.
 ```
+
+
+## Media coverage
+
+::::{grid}
+:gutter: 3
+
+:::{grid-item-card} Riotact article
+<a href="https://the-riotact.com/the-largest-mountain-bike-carnival-australia-has-ever-seen-is-rolling-into-canberra-and-youre-invited/816200"><img src="_static/media/riotact.png"></a>
+:::
+:::{grid-item-card} ABC radio interview
+<a href="" target=_blank><img src="_static/media/abc_listen.png"></a>
+:::
+::::
+::::{grid}
+:gutter: 3
+
+:::{grid-item-card} ABC News ACT
+<a href="https://iview.abc.net.au/video/NU2404C294S00" target=_blank><img src="_static/media/abc_news.png"></a>
+
+At `26:19` from the start of `19:00` **ABC News ACT** on `Sunday 20 October 2024`
+:::
+:::{grid-item-card} ABC article
+<a href="https://www.abc.net.au/news/2024-10-21/sport-mountain-bike-orienteering/104497898" target=_blank><img src="_static/media/abc_article.png"></a>
+:::
+::::
+
+
 
 ## Overall schedule
 
